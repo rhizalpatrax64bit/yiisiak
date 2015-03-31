@@ -63,6 +63,7 @@ $form=$this->beginWidget('bootstrap.widgets.TbActiveForm',array(
                             );?>
                         </td>
                         <td>
+
                             <?php
                             $this->widget(
                                 'bootstrap.widgets.TbTimePicker',
